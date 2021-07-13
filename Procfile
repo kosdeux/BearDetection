@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True bear_detector.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True --debug bear_detector.ipynb
