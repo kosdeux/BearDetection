@@ -2,6 +2,8 @@
 torch==1.7.0+cpu 
 torchvision==0.10.0.+cpu
 fastai==2.4
+pillow==8.2
 voila
 ipywidgets
 graphviz
+
